@@ -48,7 +48,7 @@ changes yet**. One honest limit: many tweaks change Windows deeply, so make a re
 - 🔄 **Calmer updates** – pick **Recommended** (security updates on time, big upgrades a year
   later), the Windows default, or turn updates off.
 - 💿 **Your own Windows 11 installer** – **Win11 Creator** makes a trimmed ISO file or USB stick
-  from Microsoft's download.
+  from the official Windows download.
 - 🌗 **Light and dark themes**, and a search box to find any setting.
 
 ## 🚀 Get started
@@ -123,7 +123,7 @@ flowchart LR
 - **The lists** of apps, tweaks and features live in plain JSON files in [config/](config/).
 
 > [!IMPORTANT]
-> Some tweaks, such as removing Microsoft Edge or OneDrive, are hard to undo. Tick **Restore Point
+> Some tweaks, such as removing the built-in browser or cloud storage app, are hard to undo. Tick **Restore Point
 > \- Create** before you run them, and read the tooltip first.
 
 ## ❓ FAQ and troubleshooting
